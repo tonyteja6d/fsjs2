@@ -12,7 +12,7 @@
 
 ## Extra HTML And CSS Assignemnt
 
-### [Project 1]( https://tonyteja6screditcard.netlify.app/)
+### [Project 1](./HTML%20and%20CSS/01_Project-%20Credit%20Card%20Landing%20Page)
 
 ### [Project 2](./HTML%20and%20CSS/02_Project-%20Hosting%20Site%20Landing%20Page)
 
