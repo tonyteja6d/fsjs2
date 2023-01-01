@@ -1,0 +1,500 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    color: white;
+    font-weight: 100;
+    font-family: sans-serif; 
+}
+
+ /* reusable classs*/
+
+.cin{color:rgba(38, 129, 249, 0.953) ;}
+.cinbla{color: #000;}
+#marg{   margin: 80px 0px 80px 0px;}     
+
+
+
+/* navigaton css */
+
+body{
+
+    background: #000;
+}
+
+.wrapper{
+
+    max-width: 1400px;
+    width: 80%;
+    margin: 40px auto;
+
+}
+
+.navi{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0px 10px 0px;
+}
+ul{
+    display: flex;
+    gap: 50px;
+    align-items: center;
+}
+
+li a {
+    color: grey;
+    font-size: 25px;
+}
+button{
+  background: rgba(38, 129, 249, 0.953);
+  padding: 10px 30px;
+  border-radius: 50px;
+    
+}
+
+button a {
+    font-size: 20px;
+}
+
+ 
+
+/* section 1 */
+
+.section1{
+    margin: 80px 0px 80px 0px;
+    display: flex;
+    gap: 80px;
+}
+
+
+.left1{
+  width: 60%;
+ display: flex;
+ flex-direction: column;
+  gap: 40px;     
+}
+
+.left1 h1{
+    font-size: 80px;
+    font-weight: 600;
+}
+
+.vin{
+    font-weight: 700;
+}
+.left1 p{
+
+    font-size: 30px;
+    line-height: 40px;
+    color: grey;
+}
+.btn{
+    display: flex;
+    gap: 80px;
+}
+.btn button{
+    padding: 18px 48px;
+}
+.int{background: #000; border: 1px solid grey;}
+
+.rowlogo{
+
+    display: flex;
+    gap: 200px;
+    justify-content: center;
+    padding: 40px;
+    background: rgb(20, 20, 20);
+    
+}
+
+/* section2 css */
+
+ 
+
+.fbg{
+    background: white;
+    padding-top: 100px;
+}
+
+.sec2txt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 200px;
+    gap: 40px;
+     
+}
+.sec2txt h1{
+    font-size: 70px;font-weight: 700;
+}
+.sec2txt p{
+    font-size: 20px;
+    width: 30%;
+    text-align: center;
+    line-height:30px;
+}
+
+
+.sec2cards{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-bottom: 100px;
+
+    
+}
+
+.sec2cards span{
+    width: 23%;
+    height: 38vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    padding: 15px;
+    text-align: center;
+    border:2px solid rgb(175, 163, 163);
+    border-radius: 25px;
+    transition: all 1s;
+    
+}
+
+.sec2cards svg{
+    width: 25%;
+}
+
+.sec2cards p{
+    line-height: 30px;
+    font-size: 20px;
+}
+.sec2cards h1{
+    font-weight: 700;
+}
+
+.sec2cards span:hover{
+
+    background: rgba(14, 13, 13, 0.953);
+    transform: translateY(-100px);
+    box-shadow: 5px 20px 25px 5px hsla(0, 2%, 24%, 0.178);
+    transition: transform 1s  ;
+    
+}
+
+.sec2cards span:hover p , .sec2cards span:hover h1{
+    color: white;
+    transition: all 0.1ms;
+}
+
+.soh1{
+    width: 70%;
+    color: #000;
+    line-height: 60px;
+    word-spacing: 8px;
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 100px;
+    
+}
+
+.lis{
+
+    display: flex;
+    gap: 80px;
+    justify-content:space-between;
+    padding: 40px;
+
+    
+}
+.lisl span h1{
+    color: #000;
+    font-weight: 600;
+}
+.lisr span p{
+    color: rgba(239, 237, 237, 0.715);
+    font-size: 15px;
+    
+}
+
+.lisl span{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid grey;
+    border-radius: 50px;
+    padding: 20px;
+}
+.lisl{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    width: 60%;
+    
+}
+.lisl span:hover{
+
+    background: rgba(38, 129, 249, 0.953);
+}
+.lisl span:hover h1{
+    color: white;
+}
+.lisl span:hover .nn{
+    display: none;
+}
+
+
+
+.lisr{
+    border: 2px solid rgb(41, 41, 41);
+    box-shadow: 1px 1px 3px 1px rgba(48, 46, 46, 0.416);
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 40%;
+    background: #000;
+    padding: 20px;
+    border-radius:25px;
+
+}
+#cir{
+    padding: 8px;
+    background: whitesmoke;
+    border-radius: 50%;
+}
+.lisr span{
+    
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding:15px;
+    border: 1px solid rgb(39, 38, 38);
+    border-radius: 50px;
+    background: rgba(44, 43, 43, 0.785);
+    
+}
+
+.sec3txt{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 150px;
+    text-align: center;
+}
+.sec3txt h1{
+    font-size: 60px;
+    padding-bottom:100px ;
+    font-weight: 600;
+}
+.sec3card{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+main{
+
+    width: 35vw ;
+    
+    border-radius: 20px;
+    padding: 25px;
+    background: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+main h2{font-weight: 700;}
+
+main h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+main h3 {
+    display: flex;
+    gap: 15px;
+    margin: 25px auto;
+}
+main button{
+
+    border: none;
+    padding: 15px;
+    font-size: 22px;
+}
+
+main span{
+    color: rgb(157, 156, 156);
+    font-size: 25px;
+    font-weight: 600;
+}
+
+hr {background: rgba(212, 211, 211, 0.641);
+border-radius: 25px;}
+main h2 , main h1 , main p{color: black;}
+
+main:hover{
+
+    background:rgba(38, 129, 249, 0.953);
+}
+
+main:hover button{
+    background: white;
+    color: rgba(38, 129, 249, 0.953);
+}
+main:hover h1 , main:hover h2 , main:hover ,main:hover p{
+     color:white;
+}
+
+.fii{display: none;}
+
+main:hover .fi{
+    display: none
+}
+
+main:hover .fii{
+    display:block;
+}
+
+.sec4txt p {
+    color: rgb(136, 131, 131);
+    width: 35%;
+    line-height: 25px;
+    font-size: 20px;
+    padding-top: 40px;
+    word-spacing: 2px;
+   
+}
+.sec4txt h1{
+    width: 45%;
+    color: black;
+    font-size: 50px;
+    font-weight: 900;
+    
+}
+
+.sec4txt{
+
+    display: flex;
+    margin-top: 100px;
+    justify-content: space-between;
+    margin-bottom: 80px;
+    
+}
+
+.sec4cards{
+    display: flex;
+    justify-content: space-between; 
+    padding: 20px;
+    gap: 60px;
+}
+.sec4cards h1 , .sec4cards h3 , .sec4cards p{
+    color: black;
+}
+.sec4cards h1 {
+    
+    font-size: 40px;
+}
+.sec4cards p{
+    font-size: 20px;
+}
+ 
+.tur{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.sec4cards span{
+    width: 100vw;
+    
+    border: 2px solid rgb(208, 206, 206);
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    border-radius: 20px;
+    padding: 30px;
+}
+
+.sec4cards span:hover{
+    background: #000;
+}
+ 
+
+.sec4cards span:hover h1 , .sec4cards span:hover h3 , .sec4cards span:hover p{
+    color:white;
+}
+ 
+.lineso{
+    width: 100%;
+    height: 15vh;
+    margin-top: 100px;
+   
+}
+
+.lineso div{
+    height: 8px;
+    width: 100%;
+    background: hsla(0, 0%, 84%, 0.649);
+    border-radius: 10px;
+    display: flex;
+}
+
+.lind{
+    height: 8px;
+    width: 200px;
+    background: hsla(209, 96%, 47%, 0.649);
+    border-radius: 10px;
+}
+
+.sec5 h2{
+    font-size: 60px;
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 100px;
+    font-weight: 600;
+}
+form{
+
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+    padding: 60px;
+    background: rgba(60, 57, 57, 0.553);
+    border-radius: 20px;
+    margin-bottom: 100px;
+}
+input{
+
+    background: rgb(68, 68, 68);
+    border: none;
+    padding: 15px 20px;
+    border-radius: 40px ;
+    font-size: 20px;
+
+}
+.sec5 button{
+    padding: 15px 40px;
+    font-size: 20px;
+}
+
+.cus{
+
+    margin-top: 100px;
+    margin-bottom:100px ;
+    display: flex;
+    justify-content:space-around;
+}
+.cus span{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.llog{
+    margin-top: 100px;
+    margin-bottom:100px ;
+}
