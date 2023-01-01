@@ -6,4 +6,4 @@
 
 
 # project done in 15.6 inch screen only 
-# project link :- [This is an external link to genome.gov](https://www.genome.gov/)
+# project link :- [credit card landing page](https://tonyteja6screditcard.netlify.app/)
