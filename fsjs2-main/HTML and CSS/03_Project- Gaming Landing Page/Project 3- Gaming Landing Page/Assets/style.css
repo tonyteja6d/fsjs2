@@ -126,8 +126,13 @@ gap: 10px;
     margin-left: 40px;
  }
 
+ /* section 2*/
+ .bwhite{
+    background: white;
+ }
+
  .sec2-1{ 
-    margin-top: 150px;
+    padding-top: 100px;
     display: flex;
     flex-direction: column; 
     align-items: center;
@@ -283,8 +288,8 @@ gap: 10px;
     display:grid;
     grid-template-columns:repeat(2,1fr);
     grid-gap:80px;
-    margin-bottom: 100px;
- }
+    padding-bottom: 100px;
+  }
 .spicrds span{
    display:flex;
    gap:30px;
@@ -393,6 +398,8 @@ gap: 10px;
 .godw{
     width: 100%;
     position: absolute;
+    left: 0;
+    top: 50px;
 }
 
 .forp div{
@@ -430,6 +437,8 @@ gap: 10px;
     background:#f4694c;
 }
 
+/* footer*/
+
 footer{
     background: #000;
 }
@@ -461,7 +470,7 @@ gap: 30px;
 
 .hrr{
     margin-bottom: 100px;
-    border-bottom: 1px solid rgb(40, 41, 53); 
+    border-bottom: 1px solid rgb(42, 42, 55); 
 }
 
 body{
