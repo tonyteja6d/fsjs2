@@ -7,4 +7,4 @@
 # hellow 
     
 # project done in 15.6 inch screen only 
-# project link :- [credit card landing page](https://tonyrealstatelandingpage.netlify.app/)
+# project link :- [Real Estate landing page](https://tonyrealstatelandingpage.netlify.app/)

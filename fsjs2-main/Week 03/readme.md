@@ -13,7 +13,7 @@
 # hellow 
     
 # project done in 15.6 inch screen only 
-# project link :- [credit card landing page](https://w3pro1.netlify.app/)
+# project link :- [Project - 1](https://w3pro1.netlify.app/)
 
 - Make HTML and CSS Again.
 
@@ -28,7 +28,7 @@
 # hellow 
     
 # project done in 15.6 inch screen only 
-# project link :- [credit card landing page](https://w3pro2.netlify.app/)
+# project link :- [Project -2](https://w3pro2.netlify.app/)
 
 - Make HTML and CSS Again.
 
@@ -43,6 +43,6 @@
 # hellow 
     
 # project done in 15.6 inch screen only 
-# project link :- [credit card landing page](https://w3pro3.netlify.app/)
+# project link :- [Project - 3](https://w3pro3.netlify.app/)
 
 - Make HTML and CSS Again.

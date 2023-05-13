@@ -7,4 +7,4 @@
 # hellow 
     
 # project done in 15.6 inch screen only 
-# project link :- [credit card landing page](https://tonydataanalyticslandingpage.netlify.app/)
+# project link :- [Data Analytics landing page](https://tonydataanalyticslandingpage.netlify.app/)
