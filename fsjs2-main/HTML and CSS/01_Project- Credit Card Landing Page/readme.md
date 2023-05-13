@@ -4,7 +4,7 @@
 
 ![Project 1](./Credit%20card%20landing%20page.png)
 
-# hellow vgdsggdgdgdr   fgretgrdgferdgsde nnnn
+# hellow 
     
 # project done in 15.6 inch screen only 
 # project link :- [credit card landing page](https://tonyteja6screditcard.netlify.app/)
