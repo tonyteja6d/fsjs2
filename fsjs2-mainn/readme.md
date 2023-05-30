@@ -24,3 +24,16 @@
 ### [Project 5](./HTML%20and%20CSS/05_Project-%20Beats%20Landing%20Page)
 
 ### [Project 6](./HTML%20and%20CSS/06_Project-%20Data%20Analytics%20Landing%20Page)
+
+---
+
+### Here my social media links :-
+
+## My Social Media Handles :
+
+[![GitHub](https://img.shields.io/badge/github-Fork%20Me-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreenivasulu-Kalluru)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-Connect%20With%20Me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-k-8069201b0)
+
+[![Hashnode](https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vasuk24.hashnode.dev/)
+
