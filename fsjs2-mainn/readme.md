@@ -31,9 +31,9 @@
 
 ## My Social Media Handles :
 
-[![GitHub](https://img.shields.io/badge/github-Fork%20Me-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sreenivasulu-Kalluru)
+[![GitHub](https://github.com/tonyteja6d )
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-Connect%20With%20Me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasu-k-8069201b0)
+[![LinkedIn]( https://www.linkedin.com/in/teja-mandapati/)
 
-[![Hashnode](https://img.shields.io/badge/Hashnode-Follow%20Me-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://vasuk24.hashnode.dev/)
+[![Hashnode]( https://tonyteja6s.hashnode.dev/)
 
